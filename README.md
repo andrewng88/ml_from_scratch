@@ -1,4 +1,4 @@
-# This is to assert understanding of the underlying code behind common ML algorithms.
+# This is to assert understanding of the underlying numpy code behind common ML algorithms.
 
 <li>KNN
 <li>Linear Regression
